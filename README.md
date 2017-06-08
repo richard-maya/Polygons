@@ -12,3 +12,6 @@ Enjoy! And don't forget to create more shapes by yourself and make pull requests
 
   [1]: http://kizu.github.com/Polygons/
   [2]: http://kizu.github.com/Polygons/Megahexagon.png
+  
+  Watch the demo:
+  http://jsfiddle.net/kizu/bhGn4/
